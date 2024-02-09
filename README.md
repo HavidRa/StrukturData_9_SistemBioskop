@@ -4,9 +4,9 @@
 # Anggota Kelompok
 - Kelompok: 9
 - Anggota:
-  - Havid Restu Afyantara
-Rival Maulana
-Muhammad Ilham Abdul Halim
+          - Havid Restu Afyantara
+          - Rival Maulana
+          - Muhammad Ilham Abdul Halim
 # Pembagian Tim
 - Havid: Pembuka, menjelaskan codingan dari line 1 - 71
 - Rival: Menjelaskan codingan dari line 74 - 169
