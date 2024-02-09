@@ -24,6 +24,7 @@ Isi dari tipe data tersebut dapat dijelaskan sebagai berikut:
 - *Informasi Tempat Duduk*: Menyimpan informasi sisa tempat duduk setelah setiap transaksi. Contoh: "Film 1: Sisa Tempat Duduk 98".
 - *Jadwal Penayangan*: Menyimpan jadwal penayangan setiap film. Contoh: "Film 1: Senin 10:00, Selasa 13:00".
 # Komponen Project
+- Record
 - Array
 - LinkedList
 - Queue
