@@ -4,7 +4,7 @@
 # Anggota Kelompok
 - Kelompok: 9
 - Anggota:
-Havid Restu Afyantara
+  - Havid Restu Afyantara
 Rival Maulana
 Muhammad Ilham Abdul Halim
 # Pembagian Tim
