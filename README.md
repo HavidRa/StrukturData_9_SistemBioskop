@@ -34,5 +34,5 @@ Isi dari tipe data tersebut dapat dijelaskan sebagai berikut:
 - Rival Maulana: Menjelaskan codingan dari line 74 - 169
 - Muhammad Ilham Abdul Halim: Penutup, menjelaskan bagian output
 # Demo Project
-- GitHub:
+- GitHub: https://github.com/HavidRa/StrukturData_9_SistemBioskop/tree/main
 - YouTube:
