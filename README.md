@@ -36,4 +36,4 @@ Isi dari tipe data tersebut dapat dijelaskan sebagai berikut:
 - Muhammad Ilham Abdul Halim: Penutup, menjelaskan bagian output
 # Demo Project
 - GitHub: https://github.com/HavidRa/StrukturData_9_SistemBioskop/tree/main
-- YouTube:
+- YouTube: https://youtu.be/gr4UD5wVK-k
