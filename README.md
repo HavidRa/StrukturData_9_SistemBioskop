@@ -28,7 +28,6 @@ Isi dari tipe data tersebut dapat dijelaskan sebagai berikut:
 - Array
 - LinkedList
 - Queue
-- Scanner
 - Stack
 # Pembagian Tim
 - Havid Restu Afyantara: Pembuka, menjelaskan codingan dari line 1 - 71
